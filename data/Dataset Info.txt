@@ -1,0 +1,16 @@
+data #1：
+Suicide Rate Overview
+Source：
+Suicide Rates Overview 1985 to 2016
+Compares socio-economic info with suicide rates by year and country
+https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
+
+
+data #2：
+Countries
+Source：
+World capitals gps
+Latitude and longitude of world capitals
+https://www.kaggle.com/nikitagrec/world-capitals-gps
+
+

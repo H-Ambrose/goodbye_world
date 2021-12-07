@@ -1,0 +1,6 @@
+Source：
+
+Detecting suicidal posts with Natural Language Processing
+How Machine Learning and NLP can aid national suicide prevention strategies
+
+https://towardsdatascience.com/goodbye-world-4cc844197d51
